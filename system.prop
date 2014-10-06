@@ -6,3 +6,11 @@ rild.libargs=-d /dev/smd0
 
 telephony.lteOnGsmDevice=0
 ro.telephony.default_network=3
+
+# I9190 Hardware Info
+ro.device.chipset=Qualcomm MSM8930 Snapdragon 400
+ro.device.cpu=Krait 300, 1700 Mhz
+ro.device.gpu=Qualcomm Adreno 305
+ro.device.rear_cam=8 MP
+ro.device.front_cam=2.1 MP
+ro.device.screen_res=540x960
